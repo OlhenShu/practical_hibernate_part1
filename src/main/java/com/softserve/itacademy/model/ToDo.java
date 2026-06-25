@@ -10,7 +10,7 @@ import java.util.Objects;
 public class ToDo {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private Long id;
     private String title;
     private LocalDateTime createdAt;
     private User owner;

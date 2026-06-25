@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Objects;
 
 public class User {
-    private long id;
+    private Long id;
     private String firstName;
     private String lastName;
     private String email;
