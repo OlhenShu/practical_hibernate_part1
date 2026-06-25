@@ -23,4 +23,4 @@
 - **For State:**</br>
 **name:** must be between 1 and 20 characters, and can only contain Latin letters, numbers, dashes, spaces, and underscores.</br>
   </br>
-Write missing unit tests for all entities, similar to the UserTests class:
+Write missing unit tests for all entities.
